@@ -1,0 +1,13 @@
+.suggestion-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+}
+.para {
+  margin: 2px;
+}
+
+.image1 {
+  height: 25px;
+}
